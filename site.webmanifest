@@ -1,0 +1,13 @@
+{
+    "name": "Instagram Fonts",
+    "short_name" : "IGFonts",
+    "icons": [{
+        "src": "https://cdn.glitch.com/249e1d47-8b44-42f1-ab83-8375d511040a%2Fkisspng-computer-icons-logo-clip-art-instagram-logo-5acbcae56ab134.png?1534499059706",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+    "start_url": "/",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
